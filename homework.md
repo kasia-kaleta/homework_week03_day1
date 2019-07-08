@@ -73,3 +73,5 @@ WHERE title = 'Iron Man 2';
 ## Extension
 
 1.  Research how to delete multiple entries from your table in a single command.
+
+DELETE FROM table Where ID IN (1,3,5)
